@@ -1,5 +1,6 @@
 ### Программа представляет собой простой драйвер для операционной системы Windows, написанный на языке C.
 
+</br>
 <div>
     <a href="README.md">
         <img src="https://img.shields.io/badge/README-RU-blue?color=44944a&labelColor=1C2325&style=for-the-badge">
