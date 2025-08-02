@@ -9,7 +9,6 @@
         <img src="https://img.shields.io/badge/README-ENG-blue?color=44944a&labelColor=1C2325&style=for-the-badge">
     </a>
 </div>
-</br>
 
 #### Main Components of the Program
 
